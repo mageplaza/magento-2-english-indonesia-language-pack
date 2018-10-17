@@ -5613,7 +5613,7 @@
 "An error occurred. The email template can not be opened for preview.","Terjadi Kesalahan. Template email tidak dapat dibuka untuk pratinjau.",module,Magento_Email
 "This email template no longer exists.","Template email ini sudah lama tidak tersedia.",module,Magento_Email
 "You saved the email template.","Anda menyimpan template email.",module,Magento_Email
-"The design config needs an area and a store. Verify that both are set and try again.","The design config needs an area and a store. Verify that both are set and try again.",module,Magento_Email
+"The design config needs an area and a store. Verify that both are set and try again.","The attributeGroup can't be saved.",module,Magento_Email
 "%1","%1",module,Magento_Email
 "Template Variables","Variabel Template",module,Magento_Email
 "Please enter a template name.","Harap masukkan nama template baru.",module,Magento_Email
