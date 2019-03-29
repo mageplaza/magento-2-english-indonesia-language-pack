@@ -421,9 +421,9 @@ Debug,Debug,module,Magento_Authorizenet
 "Maximum Order Total","Maksimum Total Pesanan",module,Magento_Authorizenet
 "Sort Order","Menyortir Pesanan",module,Magento_Authorizenet
 Close,Close,module,Magento_B2b
-options,options,module,Magento_B2b
-"Select all","Select all",module,Magento_B2b
-"Deselect all","Deselect all",module,Magento_B2b
+options,Options,module,Magento_B2b
+"Select all","Select All",module,Magento_B2b
+"Deselect all","Deselect All",module,Magento_B2b
 Cancel,Cancel,module,Magento_B2b
 Done,Done,module,Magento_B2b
 "Please Select","Please Select",module,Magento_B2b
