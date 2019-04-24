@@ -117,11 +117,13 @@ To download and install English Indonesia pack manually, you have to access to y
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/en_id/en_ID.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/en_id/`
 
-See this screenshot
+See this screenshot:
 
 ![English Indonesia pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **en_id**
 
 #### Step 2: Flush cache
 
