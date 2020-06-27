@@ -1,6 +1,6 @@
 ## Magento 2 English Indonesia Language Pack
 
-
+ 
 
 Read more [Magento 2 English Indonesia Language Pack](https://www.mageplaza.com/magento-2-english-indonesia-language-pack.html)
 
@@ -20,8 +20,6 @@ Read more [Magento 2 English Indonesia Language Pack](https://www.mageplaza.com/
 
 This is status of English Indonesia Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/71/?title=translated)
-
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-english-indonesia-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
@@ -38,13 +36,24 @@ Install the English Indonesia language pack via composer is never easier.
 
 **Install English Indonesia pack**:
 
+With Social Proof (recommend):
+
+```
+composer require mageplaza/magento-2-english-indonesia-language-pack:dev-master avada/module-proofo
+php bin/magento setup:static-content:deploy en_ID
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Social Proof:
+
 ```
 composer require mageplaza/magento-2-english-indonesia-language-pack:dev-master
 php bin/magento setup:static-content:deploy en_ID
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
